@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2af0b439-5e1a-4ee4-b213-6be3159de762",
+  "id_short": 267858,
+  "published_at": "2026-04-11T07:17:03Z",
+  "repo_name": "the-hhi-monopoly-index-for-maine-us-sample-267858",
+  "sample_asset_name": "beamstation_267858_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/267858/beamstation_267858_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_records": 23,
+  "sample_sha256": "4f8797fdcbfdd9a653cdce0b9e17b9eea6b4ed69e6f94541df10f50b72c71994",
+  "sample_size_bytes": 101775,
+  "total_records": 237
+}
