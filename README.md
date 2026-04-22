@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Maine, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `267858` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 226 records |
-| Free sample size | 22 records (9.73%) |
-| Last export | 2026-04-14T23:55:38.120728+00:00 |
+| Full dataset size | 167 records |
+| Free sample size | 16 records (9.58%) |
+| Last export | 2026-04-22T03:44:59.631205+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-maine-us-sample-267858/releases/download/sample-latest/beamstation_267858_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
